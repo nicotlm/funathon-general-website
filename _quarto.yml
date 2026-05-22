@@ -10,7 +10,8 @@ website:
       - about.qmd
       - href: https://aiml4os.github.io/funathon_slides/
         text: Introductory slides
-      - registration.qmd
+      # - registration.qmd
+      - onboarding.qmd
       # - subjects.qmd
       # - replay.qmd
       # - restitutions.qmd
