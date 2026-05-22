@@ -6,4 +6,4 @@ Here is the recording of the onboarding session held on May 22nd.
 
 <br>
 
-{{< video src="https://minio.lab.sspcloud.fr/projet-funathon/2024/diffusion/20240626_restitutions.mp4" controls="yes" >}}
+{{< video src="https://minio.lab.sspcloud.fr/projet-funathon/2026/onboarding/video1449086258.mp4" controls="yes" >}}
