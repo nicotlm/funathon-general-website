@@ -12,7 +12,7 @@ website:
         text: Introductory slides
       # - registration.qmd
       - onboarding.qmd
-      # - subjects.qmd
+      - projects.qmd
       # - replay.qmd
       # - restitutions.qmd
 
