@@ -1,15 +1,13 @@
 ---
-title: "Un tableau de bord du trafic aérien avec R ou Python"
-image: ../img/kid_drawing.jfif
+title: "Automatic coding for NACE classification"
+image: ../img/sujet2.png
 number: 2
-# categories:
-#     - TODO
-github: https://github.com/InseeFrLab/funathon2024_sujet2/
-website: https://inseefrlab.github.io/funathon2024_sujet2/
-levels: ["Débutant", "Intermédiaire", "Expert"]
+github: https://github.com/AIML4OS/funathon-project2
+website: https://github.com/AIML4OS/funathon-project2/
+levels: ["Beginner", "Intermediate", "Expert"]
 ---
 
 <br>
-Amener, pas à pas, à la conception voire à la mise à disposition d'un tableau de bord du trafic aérien avec {{< fa brands r-project >}} ou {{< fa brands python >}}.
+Automatic coding of free texts describing economic activities in the NACE classification using deep learning and retrieval-augmented generation (RAG).
 <br>
 

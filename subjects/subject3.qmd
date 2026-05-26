@@ -1,15 +1,10 @@
 ---
-title: "Flightradar24"
-image: ../img/sujet3.jpg
+title: "Satellite Image Segmentation with Deep Learning"
+image: ../img/sujet3.png
 number: 3
-# categories:
-#     - Python
-#     - Dash
-#     - Visualisation
-#     - Déploiement d'application
-github: https://github.com/InseeFrLab/funathon2024_sujet3
-website: https://flightradar-ui-demo.lab.sspcloud.fr
-levels: ["Intermédiaire", "Expert"]
+github: https://github.com/AIML4OS/funathon-project2
+website: https://github.com/AIML4OS/funathon-project2/
+levels: ["Beginner", "Intermediate", "Expert"]
 ---
 
 <br>

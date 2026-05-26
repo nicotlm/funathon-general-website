@@ -1,0 +1,16 @@
+---
+title: "Funathon projects"
+listing:
+    id: sample-listings
+    contents: subjects
+    type: grid
+    sort: "number"
+    categories: true
+    fields: [image, title, github]
+    template: cards.ejs
+---
+
+::: {#sample-listings}
+:::
+
+<br>
