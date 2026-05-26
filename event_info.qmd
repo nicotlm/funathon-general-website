@@ -1,0 +1,38 @@
+---
+title: "Event Information"
+---
+
+## Technical Requirements
+
+As a reminder from the introductory slides, to participate in the funathon you will need:
+
+- A **GitHub account** and an **SSPCloud account** ([datalab.sspcloud.fr](https://datalab.sspcloud.fr/));
+- A good **internet connection** and access to **Zoom**.
+
+Some familiarity with **Python** and **Git** (`git clone`, `git pull`, `git push`) is useful but not mandatory. Detailed solutions are included in each project so that no one gets stuck.
+
+::: {.callout-important}
+SSPCloud services are **ephemeral**. Make sure to save your code on **GitHub/GitLab** and your data on **MinIO** to avoid losing your work once the funathon is over.
+:::
+
+## Event Organization
+
+This event will be held online via **Zoom**. The link to connect is [=> here <=](https://insee-fr.zoom.us/j/96499982982?pwd=OGdaAdKHQRc7XRI0xb0wQCNWoYwjUo.1). The **same Zoom link will be used for both days.**
+
+Technical support will be available from **9:30am to 5:30pm Paris summer time (UTC+2/CEST)** on both days - even if Paris is experiencing one of its most severe and earliest-ever heatwaves (thanks global warming 🌡️).
+
+## Break-Out Rooms
+
+**Three break-out rooms** will be available, one for each subject. 
+
+After the introductory statement, please join the break-out room corresponding to the subject you are working on. You'll be able to navigate freely between the main room and break-out rooms. 
+
+## Need Help?
+
+If you encounter any issue during the event, please raise it directly in the break-out room of the subject you are working on. **Two staff members** will be assigned to each topic and will be available to assist you there.
+
+Please refer to the [onboarding session](onboarding.qmd) before asking for the staff if you need **assistance with setting up your SSPCloud or GitHub account**. 
+
+If your issue requires more dedicated support, a staff member may invite you to a **separate dedicated break-out room** to help you resolve it.
+
+We also encourage participants to **help each other** - feel free to reach out to fellow participants in your break-out room if you think they can assist! There are many participants and a limited number of (🫀physical, not AI 🤖) hands to help you out.
