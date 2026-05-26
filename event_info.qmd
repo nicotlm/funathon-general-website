@@ -19,7 +19,7 @@ SSPCloud services are **ephemeral**. Make sure to save your code on **GitHub/Git
 
 This event will be held online via **Zoom**. The link to connect is [=> here <=](https://insee-fr.zoom.us/j/96499982982?pwd=OGdaAdKHQRc7XRI0xb0wQCNWoYwjUo.1). The **same Zoom link will be used for both days.**
 
-Technical support will be available from **9:30am to 5:30pm Paris summer time (UTC+2/CEST)** on both days - even if Paris is experiencing one of its most severe and earliest-ever heatwaves (thanks global warming 🌡️).
+Technical support will be available from **9:30am to 5:30pm Paris summer time (UTC+2/CEST)** on both days - even if Paris is experiencing one of its most severe and earliest-ever heatwaves (thanks global warming 🌡️). There will be a lunch break between 12pm and 1pm.
 
 ## Break-Out Rooms
 
