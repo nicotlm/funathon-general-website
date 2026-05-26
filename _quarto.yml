@@ -1,5 +1,10 @@
 project:
   type: website
+  render:
+    - "index.qmd"
+    - "about.qmd"
+    - "onboarding.qmd"
+    - "projects.qmd"
 
 website:
   title: "2026 AIML4OS Funathon"
