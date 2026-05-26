@@ -13,7 +13,9 @@ subtitle: "Let's discover ML and AI!"
 
 <!-- ![](img/funathon_2026.png){height="400" fig-align="center"} -->
 
-The 2026 funathon will take place on __May 27th and 28th__. If you want to learn more on the funathon, see [here](/about.qmd). If you want to register, see [here](/registration.qmd).
+The 2026 funathon will take place on __May 27th and 28th__. If you want to learn more on the funathon, see [here](/about.qmd). 
+
+The participant limit for the event has been reached. **Registrations are now closed.**
 
 <!-- <br>
 
@@ -23,4 +25,4 @@ The 2026 funathon will take place on __May 27th and 28th__. If you want to learn
 <br> -->
 
 
-All resources developed for the funathon are available on the [`Github AIML4OS`](https://github.com/AIML4OS?q=funathon&type=all&language=&sort=) webpage.
+All resources developed for the funathon are available on the [`Github AIML4OS`](https://github.com/AIML4OS?q=funathon&type=all&language=&sort=) webpage (scroll down to the search bar).
