@@ -3,7 +3,7 @@ title: "Automatic coding for NACE classification"
 image: ../img/sujet2.png
 number: 2
 github: https://github.com/AIML4OS/funathon-project2
-website: https://github.com/AIML4OS/funathon-project2/
+website: https://aiml4os.github.io/funathon-project2/
 levels: ["Beginner", "Intermediate", "Expert"]
 ---
 

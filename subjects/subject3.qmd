@@ -2,11 +2,11 @@
 title: "Satellite Image Segmentation with Deep Learning"
 image: ../img/sujet3.png
 number: 3
-github: https://github.com/AIML4OS/funathon-project2
-website: https://github.com/AIML4OS/funathon-project2/
+github: https://github.com/AIML4OS/funathon-project3
+website: https://aiml4os.github.io/funathon-project3/
 levels: ["Beginner", "Intermediate", "Expert"]
 ---
 
 <br>
-Reconstruction de l’interface utilisateur de FlightRadar24 avec Python {{< fa brands python >}}.
+End-to-end information extraction from satellite imagery using deep learning
 <br>

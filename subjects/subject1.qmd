@@ -3,7 +3,7 @@ title: "Predicting housing prices"
 image: ../img/sujet1.png
 number: 1
 github: https://github.com/AIML4OS/funathon-project1
-website: https://github.com/AIML4OS/funathon-project1/
+website: https://aiml4os.github.io/funathon-project1/
 levels: ["Beginner", "Intermediate"]
 ---
 
