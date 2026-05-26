@@ -8,5 +8,5 @@ levels: ["Beginner", "Intermediate", "Expert"]
 ---
 
 <br>
-End-to-end information extraction from satellite imagery using deep learning
+End-to-end information extraction from satellite imagery using deep learning.
 <br>

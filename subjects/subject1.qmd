@@ -8,5 +8,5 @@ levels: ["Beginner", "Intermediate"]
 ---
 
 <br>
-Predicting housing prices using standard machine learning algorithms with tabular data
+Predicting housing prices using standard machine learning algorithms with tabular data.
 <br>
