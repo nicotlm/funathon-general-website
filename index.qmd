@@ -13,6 +13,7 @@ subtitle: "Let's discover ML and AI!"
 
 <!-- ![](img/funathon_2026.png){height="400" fig-align="center"} -->
 
+# Presentation
 The 2026 funathon will take place on __May 27th and 28th__. If you want to learn more on the funathon, see [here](/about.qmd). 
 
 The participant limit for the event has been reached. **Registrations are now closed.**
@@ -26,3 +27,9 @@ The participant limit for the event has been reached. **Registrations are now cl
 
 
 All resources developed for the funathon are available on the [`Github AIML4OS`](https://github.com/AIML4OS?q=funathon&type=all&language=&sort=) webpage (scroll down to the search bar).
+
+# Feedback
+
+A feedback from the funathon has been given at the 2026 Quality Conference : 
+- see details of [session 21](https://www.q2026.hr/programme/conference-programme/session-21/) where the topic was discussed;
+- and the [presentation](https://www.q2026.hr/media/kmuchjs4/presentation-a-new-way-to-learn-machine-learning-and-ai.pptx). 
