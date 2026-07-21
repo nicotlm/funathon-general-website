@@ -31,5 +31,6 @@ All resources developed for the funathon are available on the [`Github AIML4OS`]
 # Feedback
 
 A feedback from the funathon has been given at the 2026 Quality Conference : 
+
 - see details of [session 21](https://www.q2026.hr/programme/conference-programme/session-21/) where the topic was discussed;
 - and the [presentation](https://www.q2026.hr/media/kmuchjs4/presentation-a-new-way-to-learn-machine-learning-and-ai.pptx). 
